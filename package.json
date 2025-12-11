@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ghulee.github.io/Online_Learning_Platform",
+  "homepage": "https://ghulee.github.io/Online_Learning_Platform/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
